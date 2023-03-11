@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Luwaja
-- 👀 I’m interested in web development.
+- 👀 I’m interested in software engineering and web development.
 - 🌱 I’m currently learning Java, JavaScript, and Python.
 
 <!---
