@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Luwaja
-- 👀 I’m interested in software engineering and web development.
+- 👀 I’m interested in software development and web development.
 - 🌱 I’m currently learning React, Bootstrap, and Kotlin.
 
 <h3 align="left">Languages and Tools:</h3>
